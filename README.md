@@ -8,6 +8,10 @@
   
 ### 배포 주소 : https://paulbassett-42763.web.app/
 
+테스트 아이디
+  - ID : 111111@naver.com 
+  - PW : 123456
+
 ### 발표 자료 피피티 
 
 [pdf 파일](폴바셋리뉴얼.pdf)
